@@ -47,6 +47,9 @@ function updateCity(event) {
         "A"
         )}</small></div>
         </div>
+        <div class="backpage">
+        <a href="#" onclick="location.reload();">Back to all cities</a>
+        </div>
         `;
 }
 
